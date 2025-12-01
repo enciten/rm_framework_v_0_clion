@@ -15,6 +15,7 @@ Makefile*
 !/BSP/**
 !/APP/**
 !/INS/**
+!/games/**
 
 
 !/*.ld
